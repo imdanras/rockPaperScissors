@@ -18,7 +18,7 @@ function randomPlay() {
     }
 }
 ////////////////////////////////////////////////
-/*           Write Your Code Below            */
+/*           Write Your Code Below            /*/
 ////////////////////////////////////////////////
 
 function getPlayerMove(move) {
